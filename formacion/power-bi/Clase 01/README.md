@@ -47,7 +47,7 @@ En la cinta Inicio, seleccione Obtener datos > Más.
 
 Aparece la ventana Obtener datos, que muestra muchas categorías a las que Power BI Desktop puede conectarse.
 
-![Conexión a fuentes](/_src/assets/conetar.png)
+![Conexión a fuentes](../_src/assets/conetar.png)
 
 ![Vista Power BI](https://docs.microsoft.com/es-es/power-bi/fundamentals/media/desktop-what-is-desktop/what-is-desktop-07.png)
 
@@ -58,7 +58,7 @@ Aparece la ventana Obtener datos, que muestra muchas categorías a las que Power
 
 #### Visualización de Datos
 
-[Data Storytelling - Cole Nussbaumer](/Libros/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
+[Data Storytelling - Cole Nussbaumer](../Libros/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
 
 [Diagrama de selección original](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)
 
